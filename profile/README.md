@@ -12,7 +12,7 @@ We design and ship AI-driven platforms that automate complex workflows, turning 
 
 ## Our Products
 
-### 🩺 Clynea — AI-Powered Clinical Platform
+### Clynea — AI-Powered Clinical Platform
 
 A comprehensive health-tech platform that brings generative AI into the daily routine of healthcare professionals — physicians, psychologists, physiotherapists, and more.
 
@@ -29,7 +29,7 @@ A comprehensive health-tech platform that brings generative AI into the daily ro
 
 ---
 
-### 💰 Finance Platform — AI-Driven Financial Intelligence
+### Finance Platform — AI-Driven Financial Intelligence
 
 An intelligent finance platform that leverages AI agents to automate financial analysis, reporting, and decision-making workflows.
 
