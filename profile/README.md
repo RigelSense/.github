@@ -1,6 +1,6 @@
 <div align="center">
 
-# RigelSense
+# Ashmont
 
 **Building intelligent software that transforms industries.**
 
