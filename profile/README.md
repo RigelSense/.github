@@ -71,6 +71,6 @@ TypeScript everywhere · AI-first architecture · Serverless infrastructure · E
 
 ---
 
-<sub>RigelSense &copy; 2025 — All rights reserved.</sub>
+<sub>Ashmont &copy; 2025 — All rights reserved.</sub>
 
 </div>
