@@ -1,76 +1,53 @@
-<div align="center">
+# ashmont<sup>®</sup>
 
-# Ashmont
+software studio.
 
-**Building intelligent software that transforms industries.**
+*software como quem é dono.*
 
-We design and ship AI-driven platforms that automate complex workflows, turning operational overhead into competitive advantage for healthcare and finance professionals.
+we build our own products — and we embed in traditional companies to build what their operation is missing: bespoke systems, ai agents, real automation.
 
----
+not an agency. an agency ships and leaves. we build like owners — because in our own products, we are.
 
-</div>
+## our products
 
-## Our Products
+### clynea — an ashmont<sup>®</sup> company
 
-### Clynea — AI-Powered Clinical Platform
+health. an ai clinical platform for physicians, psychologists, physiotherapists, and their teams: real-time documentation support and automated anamneses, scheduling, digital records with full patient history, prescriptions, patient follow-up (secure token-based self-service access). multi-organization.
 
-A comprehensive health-tech platform that brings generative AI into the daily routine of healthcare professionals — physicians, psychologists, physiotherapists, and more.
+> Next.js · TypeScript · PostgreSQL · Drizzle ORM · OpenAI · Stripe · AWS SQS · Better Auth
 
-**Key capabilities:**
+### horizonte — an ashmont<sup>®</sup> company
 
-- **AI Clinical Assistant** — Real-time documentation support, automated anamneses, and smart patient notes
-- **Smart Scheduling** — Intelligent appointment management with automated confirmations
-- **Digital Medical Records** — Rich clinical editor with full patient history
-- **Multi-Organization** — Support for clinics, practices, and multidisciplinary teams
-- **Prescriptions & Measurements** — Digital prescriptions, exams, clinical evolution tracking
-- **Patient Follow-up** — Secure token-based access for patient self-service
+investments. financial intelligence run by ai agents — they process and analyze financial data and automate the workflows around it.
 
-> **Stack:** Next.js 15 · TypeScript · PostgreSQL · Drizzle ORM · OpenAI · Stripe · AWS SQS · Better Auth
+> TypeScript · Next.js · AI agents
 
----
+## working with us
 
-### Finance Platform — AI-Driven Financial Intelligence
+**001 · diagnosis** — 2–4 weeks inside your operation. we map what technology solves — and what that returns in cash.
 
-An intelligent finance platform that leverages AI agents to automate financial analysis, reporting, and decision-making workflows.
+**002 · build** — the system the diagnosis pointed to. fixed scope, short cycle.
 
-**Key capabilities:**
+**003 · squad** — ongoing engineering, month to month.
 
-- **AI Finance Agent** — Autonomous agents that process, analyze, and act on financial data
-- **Real-time Insights** — Dashboards and reports powered by intelligent data processing
-- **Automated Workflows** — End-to-end automation of financial operations
+## repositories
 
-> **Stack:** TypeScript · Next.js · AI Agents
-
----
-
-## Architecture & Shared Infrastructure
-
-| Repository | Purpose |
+| repository | what it is |
 |---|---|
-| `Clynea` | Clinical AI platform — full-stack application |
-| `fcs-frontend` | Finance platform — frontend application |
-| `fcs-back` | Finance platform — backend services |
-| `finance-agent` | AI agent engine for financial intelligence |
-| `lambda-SQS-embedding-processor-clynea` | Serverless embedding pipeline (AWS Lambda + SQS) |
-| `ui` | Shared UI component library across all applications |
-| `stripe-webhook-proxy` | Centralized Stripe webhook handler |
+| `Clynea` | clynea — full-stack clinical platform |
+| `lambda-SQS-embedding-processor-clynea` | clynea — serverless embedding pipeline (AWS Lambda + SQS) |
+| `fcs-front` | horizonte — web application |
+| `fcs-back` | horizonte — backend services |
+| `finance-agent` | horizonte — ai agent engine |
+
+repos prefixed `fcs-` and `finance-` predate the horizonte name — internal legacy naming.
+
+## tech dna
+
+```
+TypeScript everywhere · AI-first · serverless · event-driven
+```
 
 ---
 
-## Tech DNA
-
-```
-TypeScript everywhere · AI-first architecture · Serverless infrastructure · Event-driven systems
-```
-
-<div align="center">
-
-**We build with:**
-
-`Next.js` · `TypeScript` · `PostgreSQL` · `Drizzle ORM` · `OpenAI` · `AWS Lambda` · `SQS` · `Stripe` · `Tailwind CSS` · `shadcn/ui`
-
----
-
-<sub>Ashmont &copy; 2025 — All rights reserved.</sub>
-
-</div>
+with ai, bespoke software stopped being a luxury. manual operations are now a choice — an expensive one.
